@@ -1,6 +1,6 @@
-#**The Original Repo is Gated , Request the access to passionateartist2004@gmail.com**
+# **The Original Repo is Gated , Request the access to passionateartist2004@gmail.com**
 
-##Original Repo: https://github.com/passionateSandy2004/Quantum-NLP (Gated)
+## Original Repo: https://github.com/passionateSandy2004/Quantum-NLP (Gated)
 Gated Repo Readme.md
 
 # Quantum NLP with Cirq: Advanced Transformer Embedding
