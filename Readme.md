@@ -1,8 +1,8 @@
 # Quantum NLP with Cirq: Advanced Transformer Embedding
 
-# **The Original Repo is Gated , Request the access to passionateartist2004@gmail.com**
+### **The Original Repo is Gated , Request the access to passionateartist2004@gmail.com**
 
-## Original Repo: https://github.com/passionateSandy2004/Quantum-NLP (Gated)
+### Original Repo: https://github.com/passionateSandy2004/Quantum-NLP (Gated)
 Gated Repo Readme.md
 
 This repository contains **Quantum NLP** experiments and code integrating **Cirq** (a quantum framework by Google) with Transformer-based NLP. The project showcases a novel approach to embedding and classifying text using **quantum circuits** and multi-axis rotations in training. It aims to demonstrate how quantum properties—**superposition** and **entanglement**—can enrich classical NLP tasks, such as next-word prediction and sequence classification.
